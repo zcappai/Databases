@@ -13,3 +13,7 @@ The database application has a range of functionality, each of which can be chos
 7. Delete table EmployeeUoB - Deletes entire database (.db file will NOT be deleted)
 
 This project was completed within Repl.it!
+
+### Languages:
+<a href="#"><img align="left" alt="Python" height="25px" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /></a>
+<a href="#"><img align="left" alt="SQLite" height="25px" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" /></a>
