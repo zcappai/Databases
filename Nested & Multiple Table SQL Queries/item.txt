@@ -1,0 +1,20 @@
+Boots-snakeproof	C	Green
+Camel Saddle	R	Brown
+Compass	N	\N
+Elephant polo stick	R	Bamboo
+Exploring in 10 Easy Lessons	B	\N
+Geo positioning system	N	\N
+Hammock	F	Khaki
+Hat-Polar Explorer	C	White
+How to Win Foreign Friends	B	\N
+Map case	E	Brown
+Map measure	N	\N
+Pith Helmet	C	Khaki
+Pocket knife-Avon	E	Brown
+Pocket knife-Nile	E	Brown
+Safari chair	F	Khaki
+Safari cooking kit	F	\N
+Sextant	N	\N
+Stetson	C	Black
+Tent - 2 person	F	Khaki
+Tent - 8 person	F	Khaki

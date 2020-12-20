@@ -1,0 +1,17 @@
+1	Alice	75000	Management	\N
+2	Ned	45000	Marketing	1
+3	Andrew	25000	Marketing	2
+4	Clare	22000	Marketing	2
+5	Todd	38000	Accounting	1
+6	Nancy	22000	Accounting	5
+7	Brier	43000	Purchasing	1
+8	Sarah	56000	Purchasing	7
+9	Sophie	35000	Personnel	1
+10	Sanjay	15000	Navigation	3
+11	Rita	15000	Books	4
+12	Gigi	16000	Clothes	4
+13	Maggie	16000	Clothes	4
+14	Paul	11000	Equipment	3
+15	James	15000	Equipment	3
+16	Pat	15000	Furniture	3
+17	Mark	15000	Recreation	3
